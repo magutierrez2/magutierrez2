@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, soy Michel Andrea Gutierrez Vallejo</h1>
-<h3 align="center"> soy un estudiante de ingeniería de sistemas apasionada por el desarrollo Back-End. Tengo experiencia en el uso de lenguajes como Java y frameworks como Spring Boot. Además, me destaco por mi habilidad para adaptarme a cambios rápidamente y aprender de manera efectiva.</h3>
+<h3 align="center"> soy estudiante de ingeniería de sistemas apasionada por el desarrollo Back-End. Tengo experiencia en el uso de lenguajes como Java y frameworks como Spring Boot. Además, me destaco por mi habilidad para adaptarme a cambios rápidamente y aprender de manera efectiva.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
